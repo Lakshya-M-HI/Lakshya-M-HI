@@ -1,62 +1,112 @@
-<!--
-INSTRUCTIONS:
-Replace "your-username" with your actual GitHub username in all URLs.
-Replace links to LinkedIn/Twitter with your actual profile URLs.
-Copy and paste this code into your profile repository (usually named the same as your username).
--->
-<div align="center">
-🚀 Full Stack Developer | AI & Data Science Enthusiast
+<!-- Banner -->
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/your-username">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull%2BStack%2BDeveloper%3BMERN%2BStack%2BExpert%3BNext.js%2BDeveloper%3BLearning%2BAI%2B%2526%2BMachine%2BLearning" alt="Typing SVG" />
-</a>
+  <img src="https://raw.githubusercontent.com/Lakshya-M-HI/Lakshya-M-HI/main/banner.png" width="100%" />
 </p>
+
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=⚡+Lakshya+Mittal+⚡;AI+%26+Full-Stack+Developer;Future+AI+Engineer;Neon+Tech+Enthusiast" />
+</h1>
+
+<!-- Neon Divider -->
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-handle">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" />
-</a>
+  <img src="https://img.shields.io/badge/⚡-Neon%20AI%20Developer-blueviolet?style=for-the-badge&logo=github" />
 </p>
-</div>
-👨‍💻 About Me
-I am a versatile Full Stack Developer with a passion for building seamless web experiences. I specialize in the JavaScript ecosystem, crafting robust frontend interfaces and scalable backend architectures.
-Currently, I am pivoting towards the future of technology by diving deep into Artificial Intelligence, Machine Learning, and Data Science to build smarter applications.
-🔭 I’m currently working on: Scalable web applications using Next.js.
-🌱 I’m currently learning: Neural Networks, Python for Data Science, and ML Algorithms.
-👯 I’m looking to collaborate on: Open source projects involving React or AI integration.
-💬 Ask me about: MERN Stack, System Design, and Tailwind CSS.
-🛠️ Languages and Tools
+
+---
+
+## 🌌 About Me  
+✨ AI & Full-Stack Developer  
+✨ Passionate about **ML, DL, NLP, Automation & AI Systems**  
+✨ Building modern web apps with futuristic UI/UX  
+✨ Obsessed with **Neon Themes, Cyberpunk Tech & Smart Applications**  
+✨ Based in **Jaipur, Rajasthan 🇮🇳**  
+
+---
+
+# 🤖 AI Badges (Ultra Clean)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=aiqfome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-0FF0FC?style=for-the-badge&logo=openai&logoColor=black"/>
+</p>
+
+---
+
+# 💻 Tech Stack (Neon Icons + Glow)
+
+### 🚀 Frontend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+</p>
+
+### ⚡ Backend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+</p>
+
+### 💾 Database  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+</p>
+
+---
+
+# 🚀 Featured Neon Projects  
+(Shows as **glowing cards**)
+
+### 🎛 Resume Builder  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=resume-builder&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/resume-builder)
+
+### 🔗 URL Shortener  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=url-shortener&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/url-shortener)
+
+### 🌐 LinkTree Clone  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=linktree-clone&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/linktree-clone)
+
+### 🎬 Netflix Clone  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=netflix-clone&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/netflix-clone)
+
+---
+
+# ⚡ Neon Stats Section
+
 <div align="center">
-Frontend
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
-Backend & Database
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rest_API-005571%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-dreamweaver%26logoColor%3Dwhite" />
-Currently Learning (AI/ML)
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Data%2520Science-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-analytics%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Machine%2520Learning-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lakshya-M-HI&show_icons=true&theme=react&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-M-HI&theme=react&hide_border=true" width="49%" />
+
 </div>
-📊 GitHub Stats
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="stats" height="180" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="languages" height="180" />
-</div>
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-username%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="streak" />
-</div>
-<div align="center">
-<i>Let's connect and build something amazing together!</i>
-</div>
+
+---
+
+# 🏆 Neon Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-M-HI&theme=matrix&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Lakshya-M-HI/Lakshya-M-HI/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📬 Contact  
+📧 **Email:** lakshyamittalyt941@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/lakshya-mittal-b96511330/  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Crafted%20in%20Neon-%2300F0FF?style=for-the-badge" />
+</p>
+
