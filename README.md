@@ -50,33 +50,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
 </p>
 
----
+## 🚀 My Projects:
 
-## 🚀 Featured Projects (Text Version — Always Works)
-No images used, so **100% display guaranteed**.
-
-### ⭐ Resume Builder  
-🔗 https://github.com/Lakshya-M-HI/resume-builder  
-✔ React + Tailwind  
-✔ Multiple templates  
-✔ Clean UI  
-
-### ⭐ URL Shortener  
-🔗 https://github.com/Lakshya-M-HI/url-shortener  
-✔ Node.js + Express  
-✔ Custom short URLs  
-
-### ⭐ LinkTree Clone  
-🔗 https://github.com/Lakshya-M-HI/linktree-clone  
-✔ Responsive  
-✔ Multiple links  
-
-### ⭐ Netflix Clone  
-🔗 https://github.com/Lakshya-M-HI/netflix-clone  
-✔ React UI  
-✔ Movie thumbnails  
+### 🌐 Twitter-X Clone  
+A modern UI clone of Twitter/X built with clean CSS and responsive design.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/Twitter-x.com--clone)
 
 ---
+
+### 📝 TodoList  
+A simple yet powerful Todo App made using JavaScript with add, delete, and manage tasks functionality.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/TodoList)
+
+---
+
+### 🎵 Spotify Clone  
+A visually appealing Spotify UI clone using pure CSS and HTML with a dark music-theme layout.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/Spotify-clone)
+
+---
+
+### 🔐 Password Manager  
+A basic password-saving and generator tool built using JavaScript for fast password storage.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/Password-Manager)
+
+---
+
+### 🌿 LinkTree Clone  
+A clean and modern LinkTree-style personal links page built using HTML, CSS, and JS.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/LinkTree_clone)
+
+---
+
+### 🔗 BitLinks  
+A link-shortening tool similar to Bitly, using JavaScript and APIs to shorten any long URL.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/BitLinks)
+
+---
+
+### 🤖 AI Resume Builder  
+An AI-enhanced resume builder with dynamic UI and smart resume formatting features.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/AI_Resume__Builder)
+
+---
+
+### 🎬 Netflix Clone  
+A responsive Netflix homepage clone designed with CSS and smooth layout styling.  
+[🔗 View Repo](https://github.com/Lakshya-M-HI/Netflix-clone)
+
 
 ## 🎓 Certifications  
 - ✔ Web Development: HTML, CSS, JS  
