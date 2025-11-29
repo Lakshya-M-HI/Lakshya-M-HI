@@ -1,80 +1,123 @@
-# 👋 Hi, I'm Lakshya Mittal  
-### 🚀 Full Stack Developer | 🤖 AI & ML Enthusiast
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lakshya-M-HI/Lakshya-M-HI/main/banner.png" alt="Lakshya Mittal Banner"/>
+</p>
 
-I build **fast**, **scalable**, and **modern** web + AI applications.  
-Currently working on **Next.js AI projects**, **System Design**, and **DSA**.
+<h1 align="center">👋 Hi, I'm <span style="color:#d4af37">Lakshya Mittal</span></h1>
+<h3 align="center">AI & Full-Stack Developer | Building Intelligent & Modern Web Experiences</h3>
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 About Me  
+- 💻 Passionate **AI + Full-Stack Developer**  
+- 🚀 Skilled in **React, Node.js, MongoDB, JavaScript, Python**  
+- 🤖 Learning **Machine Learning, Deep Learning, NLP, and Generative AI**  
+- 🎯 Mission: Become a top-tier **AI Engineer**  
+- 🌐 From India 🇮🇳  
+- 📩 Email: **lakshyamittalyt941@gmail.com**  
 
-### **Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
-</p>
+---
+
+## 🌐 Connect With Me  
+- 💼 LinkedIn: **[Lakshya Mittal](https://www.linkedin.com/in/lakshya-mittal-b96511330/)**  
+- 📧 Email: **lakshyamittalyt941@gmail.com**
+
+---
+
+## 🛠️ Tech Stack  
 
 ### **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-### **Backend**
+### **Backend & Database**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### **Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 </p>
 
 ### **AI / ML**
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### **DevOps & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-### 🔹 Resume Builder (AI powered)  
-Next.js + Tailwind CSS + Local Storage + PDF Export  
+### ⭐ Resume Builder  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=resume-builder&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/resume-builder)
 
-### 🔹 URL Shortener  
-Node.js + MongoDB + JWT Auth  
+### ⭐ URL Shortener  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=url-shortener&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/url-shortener)
 
-### 🔹 LinkTree Clone  
-Next.js + Tailwind + Dynamic Links  
+### ⭐ LinkTree Clone  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=linktree-clone&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/linktree-clone)
 
-### 🔹 Netflix Frontend Clone  
-React + TMDB API  
+### ⭐ Netflix Frontend Clone  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=netflix-clone&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/netflix-clone)
 
-### 🔹 Funding Platform – *Get Me A Chai*  
-Full Stack + Razorpay Integration  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
+### ⭐ Funding Platform (Buy Me a Chai)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=funding-platform&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/funding-platform)
 
 ---
 
-## 🌐 Connect With Me
-<p>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+## 📊 GitHub Analytics  
+<div align="center">
+
+![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya-M-HI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-M-HI&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-M-HI&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-✨ Want a more premium version with animations, banners, badges, and dynamic typing effect?  
-Just say **"upgrade it"**.  
+## 🏆 GitHub Achievements  
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Lakshya-M-HI&theme=matrix&no-bg=true&no-frame=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+<div align="center">
+
+![snake gif](https://github.com/Lakshya-M-HI/Lakshya-M-HI/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎓 Certifications  
+
+### **Web Development Certificates**
+- HTML, CSS & JavaScript  
+- React Frontend  
+- Backend Basics (Node.js, APIs)
+
+### **AI Learning Goals**
+*(No certificate yet – learning phase)*  
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- NLP  
+- Generative AI  
+
+---
+
+## ⭐ Support My Work  
+If you like my projects, consider giving a ⭐ to support my learning and growth!
+
+---
+
