@@ -1,112 +1,80 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lakshya-M-HI/Lakshya-M-HI/main/banner.png" width="100%" />
-</p>
+# 👋 Hi, I'm Lakshya Mittal  
+### 🚀 Full Stack Developer | 🤖 AI & ML Enthusiast
 
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=⚡+Lakshya+Mittal+⚡;AI+%26+Full-Stack+Developer;Future+AI+Engineer;Neon+Tech+Enthusiast" />
-</h1>
-
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡-Neon%20AI%20Developer-blueviolet?style=for-the-badge&logo=github" />
-</p>
+I build **fast**, **scalable**, and **modern** web + AI applications.  
+Currently working on **Next.js AI projects**, **System Design**, and **DSA**.
 
 ---
 
-## 🌌 About Me  
-✨ AI & Full-Stack Developer  
-✨ Passionate about **ML, DL, NLP, Automation & AI Systems**  
-✨ Building modern web apps with futuristic UI/UX  
-✨ Obsessed with **Neon Themes, Cyberpunk Tech & Smart Applications**  
-✨ Based in **Jaipur, Rajasthan 🇮🇳**  
+## 🛠 Tech Stack
 
----
-
-# 🤖 AI Badges (Ultra Clean)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=aiqfome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-0FF0FC?style=for-the-badge&logo=openai&logoColor=black"/>
-</p>
-
----
-
-# 💻 Tech Stack (Neon Icons + Glow)
-
-### 🚀 Frontend  
+### **Languages**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
 </p>
 
-### ⚡ Backend  
+### **Frontend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,redux" />
 </p>
 
-### 💾 Database  
+### **Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### **Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+### **AI / ML**
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### **DevOps & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Neon Projects  
-(Shows as **glowing cards**)
+## 🚀 Featured Projects
 
-### 🎛 Resume Builder  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=resume-builder&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/resume-builder)
+### 🔹 Resume Builder (AI powered)  
+Next.js + Tailwind CSS + Local Storage + PDF Export  
 
-### 🔗 URL Shortener  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=url-shortener&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/url-shortener)
+### 🔹 URL Shortener  
+Node.js + MongoDB + JWT Auth  
 
-### 🌐 LinkTree Clone  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=linktree-clone&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/linktree-clone)
+### 🔹 LinkTree Clone  
+Next.js + Tailwind + Dynamic Links  
 
-### 🎬 Netflix Clone  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=netflix-clone&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/netflix-clone)
+### 🔹 Netflix Frontend Clone  
+React + TMDB API  
 
----
-
-# ⚡ Neon Stats Section
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshya-M-HI&show_icons=true&theme=react&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-M-HI&theme=react&hide_border=true" width="49%" />
-
-</div>
+### 🔹 Funding Platform – *Get Me A Chai*  
+Full Stack + Razorpay Integration  
 
 ---
 
-# 🏆 Neon Trophies  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-M-HI&theme=matrix&no-bg=true&no-frame=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Lakshya-M-HI/Lakshya-M-HI/blob/output/github-contribution-grid-snake.svg" />
+## 🌐 Connect With Me
+<p>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-# 📬 Contact  
-📧 **Email:** lakshyamittalyt941@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/lakshya-mittal-b96511330/  
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡-Crafted%20in%20Neon-%2300F0FF?style=for-the-badge" />
-</p>
-
+✨ Want a more premium version with animations, banners, badges, and dynamic typing effect?  
+Just say **"upgrade it"**.  
