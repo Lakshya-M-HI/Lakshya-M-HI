@@ -51,31 +51,24 @@
 
 ## 🚀 Featured Projects  
 
-### ⭐ Resume Builder  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=resume-builder&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/resume-builder)
+[![Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=resume-builder&theme=tokyonight)](https://github.com/Lakshya-M-HI/resume-builder)
 
-### ⭐ URL Shortener  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=url-shortener&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/url-shortener)
+[![URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=url-shortener&theme=tokyonight)](https://github.com/Lakshya-M-HI/url-shortener)
 
-### ⭐ LinkTree Clone  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=linktree-clone&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/linktree-clone)
+[![LinkTree Clone](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=linktree-clone&theme=tokyonight)](https://github.com/Lakshya-M-HI/linktree-clone)
 
-### ⭐ Netflix Frontend Clone  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=netflix-clone&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/netflix-clone)
-
-### ⭐ Funding Platform (Buy Me a Chai)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=funding-platform&theme=tokyonight&hide_border=true)](https://github.com/Lakshya-M-HI/funding-platform)
+[![Netflix Clone](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=netflix-clone&theme=tokyonight)](https://github.com/Lakshya-M-HI/netflix-clone)
 
 ---
 
 ## 📊 GitHub Analytics  
 <div align="center">
+  
+![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya-M-HI&show_icons=true&theme=tokyonight)
 
-![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya-M-HI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-M-HI&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lakshya-M-HI&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-M-HI&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-M-HI&layout=compact&theme=tokyonight)
 
 </div>
 
