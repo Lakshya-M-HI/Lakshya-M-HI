@@ -3,39 +3,41 @@
   <img src="https://raw.githubusercontent.com/Lakshya-M-HI/Lakshya-M-HI/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">⚡ Lakshya Mittal ⚡</h1>
-<h3 align="center">AI & Full-Stack Developer | Future AI Engineer | Neon Tech Enthusiast</h3>
-
----
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=⚡+Lakshya+Mittal+⚡;AI+%26+Full-Stack+Developer;Future+AI+Engineer;Neon+Tech+Enthusiast" />
+</h1>
 
 <!-- Neon Divider -->
-<p align="center"><img src="https://img.shields.io/badge/⚡-Neon%20AI%20Profile-blueviolet?style=for-the-badge"></p>
-
----
-
-## 🔥 About Me  
-💠 AI & Full-Stack Developer  
-💠 Exploring **Machine Learning, Deep Learning, NLP & Generative AI**  
-💠 Building fast & modern web apps using **React, Node.js, MongoDB**  
-💠 Obsessed with **Neon UI, Automation, Smart Systems, Futuristic Tech**  
-💠 From Jaipur, Rajasthan 🇮🇳  
-
----
-
-## 🤖 AI & ML Tech Stack (Neon Icons)
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Neon%20AI%20Developer-blueviolet?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 💻 Full-Stack Development (Glowing Icons)
+## 🌌 About Me  
+✨ AI & Full-Stack Developer  
+✨ Passionate about **ML, DL, NLP, Automation & AI Systems**  
+✨ Building modern web apps with futuristic UI/UX  
+✨ Obsessed with **Neon Themes, Cyberpunk Tech & Smart Applications**  
+✨ Based in **Jaipur, Rajasthan 🇮🇳**  
 
-### 🚀 Frontend
+---
+
+# 🤖 AI Badges (Ultra Clean)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=aiqfome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-0FF0FC?style=for-the-badge&logo=openai&logoColor=black"/>
+</p>
+
+---
+
+# 💻 Tech Stack (Neon Icons + Glow)
+
+### 🚀 Frontend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -43,22 +45,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
-### ⚙ Backend
+### ⚡ Backend  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
 </p>
 
-### 🛢 Database
+### 💾 Database  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects (Neon Cards)
+# 🚀 Featured Neon Projects  
+(Shows as **glowing cards**)
 
-### 🎛 Resume Builder
+### 🎛 Resume Builder  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-M-HI&repo=resume-builder&theme=react&hide_border=true)](https://github.com/Lakshya-M-HI/resume-builder)
 
 ### 🔗 URL Shortener  
@@ -72,7 +75,8 @@
 
 ---
 
-## ⚡ Neon GitHub Stats
+# ⚡ Neon Stats Section
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lakshya-M-HI&show_icons=true&theme=react&hide_border=true" width="49%" />
@@ -82,29 +86,27 @@
 
 ---
 
-## 🏆 Neon Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshya-M-HI&theme=matrix&no-frame=true&no-bg=true" />
-
-</div>
+# 🏆 Neon Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-M-HI&theme=matrix&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake  
-<div align="center">
-
-<img src="https://github.com/Lakshya-M-HI/Lakshya-M-HI/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Lakshya-M-HI/Lakshya-M-HI/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📬 Contact  
-💼 LinkedIn: **https://www.linkedin.com/in/lakshya-mittal-b96511330/**  
-📧 Email: **lakshyamittalyt941@gmail.com**  
+# 📬 Contact  
+📧 **Email:** lakshyamittalyt941@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/lakshya-mittal-b96511330/  
 
 ---
 
-<p align="center"><b>⚡ Crafted in Neon • By Lakshya Mittal ⚡</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Crafted%20in%20Neon-%2300F0FF?style=for-the-badge" />
+</p>
 
